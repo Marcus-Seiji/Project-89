@@ -5,6 +5,16 @@ body
 
 .login_div1
 {
-    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    width: 50%;
+    padding: 10px;
 }
 
+.login_div2
+{
+    background-color: white;
+    border-radius: 15px;
+    width: 50%;
+    padding: 10px;
+}
